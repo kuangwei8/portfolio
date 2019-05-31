@@ -5,3 +5,8 @@ h2 {
 img {
   width:400px
 }
+
+p span {
+  background-color: lightgrey;
+
+}
